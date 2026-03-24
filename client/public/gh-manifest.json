@@ -1,0 +1,25 @@
+{
+  "name": "TrendingPulse",
+  "short_name": "TrendingPulse",
+  "description": "Real-time trending stories from social media with summaries, posts, and news links.",
+  "start_url": "/trendingpulse/",
+  "scope": "/trendingpulse/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0891b2",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/trendingpulse/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/trendingpulse/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
